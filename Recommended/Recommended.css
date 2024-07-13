@@ -1,0 +1,24 @@
+.rec-flex{
+    display: flex;
+    margin-left: 21rem;
+}
+
+.rec-title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-left: 21rem;
+    font-family: sans-serif;
+    color: rgb(5, 180, 25);
+}
+
+.rec-buttons{
+    padding: 10px 20px;
+    margin-right: 6px;
+    background: transparent;
+    border: none;
+    border: 0.6px solid #ccc;
+    border-radius: 5px;
+    color: #323232;
+    cursor: pointer;
+  }

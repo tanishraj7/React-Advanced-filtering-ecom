@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    border-bottom: 2px solid silver;
+    justify-content:space-around;
+    z-index: 999;
+    align-items: center;
+    margin-left: 2px;
+    padding: 20px;
+}
+
+input{
+    padding: 12px 20px;
+    background-color: rgb(222, 217, 217);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-right: 12rem;
+    position: relative;
+    width: 14rem;
+}
+
+.nav-icons{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 2rem;
+    color: rgb(5, 180, 25);
+}
+
+.main-title{
+    
+    padding: 10px;
+    margin-left: 15.5%;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(5, 180, 25);
+
+}
